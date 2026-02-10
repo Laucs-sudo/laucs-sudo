@@ -1,1 +1,6 @@
-Laucs uses [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [React](https://react.dev), and [Node.js](https://nodejs.org). Your work gains value through these languages. Laucs builds a [game development](https://en.wikipedia.org/wiki/Video_game_development) company. The team plans a public release in 2026.
+<h1>laucs</h1>
+<img align="right" height="160" src="https://avatars.githubusercontent.com/u/197143491?v=4" />
+<p>web-focused developer. clean code. sharp UI.</p>
+
+<h3>stack</h3>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,md" height="38"/>
