@@ -3,12 +3,24 @@
 <p>web-focused developer.</p>
 
 <h3>stack</h3>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,md" height="38"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,github,vscode,figma,threejs,blender,unity&perline=7" />
+</div>
+
 <h3>company</h3>
 laucs is in the process of establishing a game User Generated content, however The company has not yet been officially launched
-<h3>Projects</h3>
-█████ (a company)
+
+<h3>projects</h3>
+<ul>
+  <li>█████ — Upcoming UGC game platform</li>
+</ul>
+
+<h3>stats</h3>
+<div align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Laucs-Sudo&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
 <h3>views</h3>
 <div align="center">
-  <img src="https://count.getloli.com/@:Laucs-Sudo?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:Laucs-Sudo?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
 </div>
