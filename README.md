@@ -1,1 +1,26 @@
-<h1>laucs</h1> <img align="right" height="160" src="https://avatars.githubusercontent.com/u/197143491?v=4" /> <p>web-focused developer.</p> <h3>stack</h3> <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,github,vscode,figma,threejs,blender,unity&perline=7" /> </div> <h3>company</h3> laucs is in the process of establishing a game User Generated content, however The company has not yet been officially launched <h3>projects</h3> <ul> <li>█████ — Upcoming UGC game platform</li> </ul> <h3>stats</h3> <div align="center"> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Laucs-Sudo&theme=tokyonight" alt="GitHub Streak" /> </div> <h3>views</h3> <div align="center"> <img src="https://count.getloli.com/@:Laucs-Sudo?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" /> </div> 
+<h1 align="center">l a u c s</h1>
+
+<img align="right" height="160" src="https://avatars.githubusercontent.com/u/197143491?v=4" />
+
+<p><strong>Web‑focused developer crafting interactive experiences & UGC‑driven systems.</strong></p>
+
+<h3>stack</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,github,vscode,figma,threejs,blender,unity,vercel&perline=8" />
+</div>
+
+<h3>company</h3>
+<p>
+  <strong>l a u c s</strong> is currently building a next‑generation <strong>User Generated Content</strong> ecosystem for games.  
+  The company is in pre‑launch development, focusing on tooling, creator pipelines, and scalable infrastructure.
+</p>
+
+<h3>projects</h3>
+<ul>
+  <li><strong>█████</strong> — Upcoming UGC game platform</li>
+</ul>
+
+<h3>stats</h3>
+<div align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Laucs-Sudo&theme=tokyonight" alt="GitHub Streak" />
+</div>
