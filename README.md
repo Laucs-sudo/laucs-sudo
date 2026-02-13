@@ -1,26 +1,30 @@
-<h1 align="center">l a u c s</h1>
 
-<img align="right" height="160" src="https://avatars.githubusercontent.com/u/197143491?v=4" />
+##  **Laucs**
 
-<p><strong>Web‑focused developer crafting interactive experiences & UGC‑driven systems.</strong></p>
-
-<h3>stack</h3>
+### Tech Stack  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,github,vscode,figma,threejs,blender,unity,vercel&perline=8" />
 </div>
 
-<h3>company</h3>
-<p>
-  <strong>Laucs</strong> is currently building a next‑generation <strong>User Generated Content</strong> ecosystem for games.  
-  The company is in pre‑launch development, focusing on tooling, creator pipelines, and scalable infrastructure.
-</p>
+---
 
-<h3>projects</h3>
-<ul>
-  <li><strong>█████</strong> — Upcoming UGC game platform</li>
-</ul>
+## Company  
+**Laucs** is developing a safety‑first **User Generated Content** platform built for creators who want freedom with structure and reliability.
 
-<h3>stats</h3>
+I’m currently working toward securing the ideal domain for the company.  
+- Purchasing it outright costs **$7,522**  
+- Leasing it costs **$625 per month**, totaling **$7,500**  
+
+The plan is to fully acquire the domain, but losing it would significantly impact the company’s trajectory.
+
+---
+
+## Projects  
+- **Suvio** — Upcoming UGC game platform
+
+## Stats  
 <div align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Laucs-Sudo&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+---
