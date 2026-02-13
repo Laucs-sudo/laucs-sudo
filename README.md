@@ -11,7 +11,7 @@
 
 <h3>company</h3>
 <p>
-  <strong>l a u c s</strong> is currently building a next‑generation <strong>User Generated Content</strong> ecosystem for games.  
+  <strong>Laucs</strong> is currently building a next‑generation <strong>User Generated Content</strong> ecosystem for games.  
   The company is in pre‑launch development, focusing on tooling, creator pipelines, and scalable infrastructure.
 </p>
 
