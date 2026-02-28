@@ -20,7 +20,7 @@ The plan is to fully acquire the domain, but losing it would significantly impac
 ---
 
 ## Projects  
-- **Suvio** — Upcoming UGC game platform
+- **Aulvar** — Upcoming UGC game platform
 
 ## Stats  
 <div align="center">
