@@ -21,6 +21,8 @@ The plan is to fully acquire the domain, but losing it would significantly impac
 
 ## Projects  
 - **Aulvar** — Upcoming UGC game platform
+- **Kario** — Upcoming Human Chatbot
+- **BScode**  — this is just vscode but it piece of crap
 
 ## Stats  
 <div align="center">
