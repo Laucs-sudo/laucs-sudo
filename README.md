@@ -1,32 +1,30 @@
-
-##  **Laucs**
-
-### Tech Stack  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,github,vscode,figma,threejs,blender,unity,vercel&perline=8" />
-</div>
-
----
+# Laucs
 
 ## Company  
-**Laucs** is developing a safety‑first **User Generated Content** platform built for creators who want freedom with structure and reliability.
+Laucs develops a safe User Generated Content platform. Creators get freedom and reliability.
 
-I’m currently working toward securing the ideal domain for the company.  
-- Purchasing it outright costs **$7,522**  
-- Leasing it costs **$625 per month**, totaling **$7,500**  
-
-The plan is to fully acquire the domain, but losing it would significantly impact the company’s trajectory.
+### Domain Acquisition Status
+- Outright purchase: 7522 dollars.
+- Lease: 625 dollars per month.
 
 ---
 
 ## Projects  
-- **Aulvar** — Upcoming UGC game platform
-- **Kario** — Upcoming Human Chatbot
-- **BScode**  — this is just vscode but it piece of crap
 
-## Stats  
-<div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Laucs-Sudo&theme=tokyonight" alt="GitHub Streak" />
-</div>
+### Aulvar
+UGC game platform. Not released. Visit the website at [aulvar.vercel.app](https://aulvar.vercel.app).
+
+### Kario
+Human Chatbot. Currently in alpha status.
 
 ---
+
+## About Me
+
+### Gaming Interests
+- Fan of Sebastian Solace. Owns the official Makeship plushie.
+- Fan of Klonoa character design via community appreciation for Kit from Gameoverse.
+
+### Music Preferences
+- Fan of Black Country, New Road. Only listens to the album Ants From Up There. Shares a [Spotify Playlist](https://open.spotify.com/playlist/5GlSBBVqrwAPZnVRTEawjv).
+- Fan of Tyler, The Creator. Listens to the album Igor. The song See You Again was the first track played on Spotify.
