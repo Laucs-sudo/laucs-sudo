@@ -1,5 +1,3 @@
-$$ \color{#00FFFF00}{\text{Loading MathJax}} $$
-
 $$
 \Huge 
 \color{#FF69B4}{L}
@@ -9,35 +7,48 @@ $$
 \color{#00FFFF}{s}
 $$
 
+Laucs is building a safe and reliable User Generated Content (UGC) platform.
 
+## Domain
 
+- Purchase: $7,522
+- Lease: $625/month
 
-## Company  
-Laucs develops a safe User Generated Content platform. Creators get freedom and reliability.
-
-### Domain Acquisition Status
-- Outright purchase: 7522 dollars.
-- Lease: 625 dollars per month.
-
----
-
-## Projects  
+## Projects
 
 ### Aulvar
-UGC game platform. Not released. Visit the website at [aulvar.vercel.app](https://aulvar.vercel.app).
+UGC game platform. Currently in development.
+
+https://aulvar.vercel.app
 
 ### Kario
-Human Chatbot. Currently in alpha status.
+Human-like chatbot. Currently in alpha.
 
----
+## About
 
-## About Me
+### Interests
+- Sebastian Solace
+- Klonoa character design
+- MathJax
 
-### Gaming Interests
-- Fan of Sebastian Solace. Owns the official Makeship plushie.
-- Fan of Klonoa character design
+### Music
+- Black Country, New Road — *Ants From Up There*
+- Tyler, The Creator
+- Radiohead
 
-### Music Preferences
-- Fan of Black Country, New Road. Only listens to the album Ants From Up There. Shares a [Spotify Playlist](https://open.spotify.com/playlist/5GlSBBVqrwAPZnVRTEawjv).
-- Fan of Tyler, The Creator. Listens to the  all somes album. The song See You Again was the first track played on Spotify. 
-- Fan of Radiohead he just enjoy the aetchstic 
+Playlist:  
+[Click Me](https://open.spotify.com/playlist/5GlSBBVqrwAPZnVRTEawjv)
+
+## Tech
+
+Currently building Aulvar.
+
+Interested in Vulkan.  
+Languages:
+- Lua
+- Python
+- Go
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
