@@ -1,4 +1,14 @@
-# Laucs
+$$
+\Huge 
+\color{#FF69B4}{L}
+\color{#FF7BB9}{a}
+\color{#E290CD}{u}
+\color{#B3AEE8}{c}
+\color{#00FFFF}{s}
+$$
+
+
+
 
 ## Company  
 Laucs develops a safe User Generated Content platform. Creators get freedom and reliability.
@@ -23,8 +33,9 @@ Human Chatbot. Currently in alpha status.
 
 ### Gaming Interests
 - Fan of Sebastian Solace. Owns the official Makeship plushie.
-- Fan of Klonoa character design via community appreciation for Kit from Gameoverse.
+- Fan of Klonoa character design
 
 ### Music Preferences
 - Fan of Black Country, New Road. Only listens to the album Ants From Up There. Shares a [Spotify Playlist](https://open.spotify.com/playlist/5GlSBBVqrwAPZnVRTEawjv).
-- Fan of Tyler, The Creator. Listens to the album Igor. The song See You Again was the first track played on Spotify.
+- Fan of Tyler, The Creator. Listens to the  all somes album. The song See You Again was the first track played on Spotify. 
+- Fan of Radiohead he just enjoy the aetchstic 
