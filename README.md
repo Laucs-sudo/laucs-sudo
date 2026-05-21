@@ -1,3 +1,5 @@
+$$ \color{#00FFFF00}{\text{Loading MathJax}} $$
+
 $$
 \Huge 
 \color{#FF69B4}{L}
