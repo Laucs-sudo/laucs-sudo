@@ -40,6 +40,9 @@ Human-like chatbot. Currently in alpha.
 - Sebastian Solace
 - Klonoa character design
 - MathJax
+- Vulkan
+- Rotector
+
 
 ### Music
 
@@ -54,12 +57,9 @@ Playlist:
 
 Currently building Aulvar.
 
-Interested in Vulkan.  
-Languages:
 
-- Lua
-- Python
-- Go
+Languages: 
+
 
 <div align="center">
 
