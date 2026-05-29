@@ -8,7 +8,7 @@ $$
 $$
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+a+safe+UGC+platform;Founder+of+Aulvar;Front-end+developer;React+%26+Node.js" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+a+Community+Driven+UGC+platform;Founder+of+Aulvar;Front-end+developer;React+%26+Node.js" alt="Typing animation" />
 </div>
 
 <div align="center">
