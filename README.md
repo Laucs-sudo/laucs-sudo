@@ -1,6 +1,6 @@
 $$
 \Huge
-\color{#FF69B4}{L}
+\color{#FF69B9}{L}
 \color{#FF7BB9}{a}
 \color{#E290CD}{u}
 \color{#B3AEE8}{c}
@@ -8,30 +8,26 @@ $$
 $$
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+a+Community+Driven+UGC+platform;Founder+of+Aulvar;Front-end+developer;React+%26+Node.js" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Front-end+developer;React+%26+Node.js" alt="Typing animation" />
 </div>
 
 <div align="center">
 
-[Website](https://aulvar.vercel.app) • [Discord](https://discord.com/invite/Zsuq53YedR) • [X](https://x.com/aulvarplatform) • [YouTube](https://youtube.com/@aulvar) • [GitHub](https://github.com/Laucs-sudo) • [Spotify](https://open.spotify.com/playlist/5GlSBBVqrwAPZnVRTEawjv)
+[GitHub](https://github.com/Laucs-sudo) • [Spotify](https://open.spotify.com/playlist/5GlSBBVqrwAPZnVRTEawjv)
 
 </div>
 
 -----
 
-Laucs is building a safe and reliable User Generated Content (UGC) platform.
+Laucs is a developer building software projects.
 
 ## Projects
-
-### Aulvar
-
-UGC game platform. Currently in development.
-
-<https://aulvar.vercel.app>
 
 ### Kario
 
 Human-like chatbot. Currently in alpha.
+
+<https://aulvar.vercel.app>
 
 ## About
 
@@ -42,7 +38,6 @@ Human-like chatbot. Currently in alpha.
 - MathJax
 - Vulkan
 - Rotector
-
 
 ### Music
 
@@ -55,11 +50,7 @@ Playlist:
 
 ## Tech
 
-Currently building Aulvar.
-
-
-Languages: 
-
+Languages:
 
 <div align="center">
 
