@@ -18,17 +18,6 @@ $$
 </div>
 
 -----
-
-Laucs is a developer building software projects.
-
-## Projects
-
-### Kario
-
-Human-like chatbot. Currently in alpha.
-
-<https://aulvar.vercel.app>
-
 ## About
 
 ### Interests
@@ -48,9 +37,7 @@ Human-like chatbot. Currently in alpha.
 Playlist:  
 [Click Me](https://open.spotify.com/playlist/5GlSBBVqrwAPZnVRTEawjv)
 
-## Tech
-
-Languages:
+## Languages
 
 <div align="center">
 
