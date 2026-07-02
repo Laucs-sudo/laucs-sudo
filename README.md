@@ -55,6 +55,6 @@ Front-end developer building at **Aulvar**, working mainly in **React, JavaScrip
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00FFFF,50:B3AEE8,100:FF69B9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00FFFF,50:B3AEE8,100:FF69B9&height=1&section=footer" width="100%"/>
 
 </div>
