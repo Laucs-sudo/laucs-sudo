@@ -1,20 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF69B9,50:B3AEE8,100:00FFFF&height=180&section=header&text=LAUCS&fontSize=70&fontColor=1A1A2E&fontAlignY=40&desc=Founder%20%26%20Lead%20Web%20Architect%20%40%20Aulvar&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1e2e,50:cba6f7,100:f5c2e7&height=180&section=header&text=LAUCS&fontSize=70&fontColor=cdd6f4&fontAlignY=40&desc=Founder%20%26%20Lead%20Web%20Architect%20%40%20Aulvar&descAlignY=62&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+%2B+JavaScript+%2B+Node.js;Building+things+at+Aulvar;Based+in+New+York" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+%2B+JavaScript+%2B+Node.js;Building+things+at+Aulvar;Based+in+New+York" alt="Typing animation" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/Laucs-sudo)
-[![Spotify](https://img.shields.io/badge/Spotify-1A1A2E?style=for-the-badge&logo=spotify&logoColor=FF69B9)](https://open.spotify.com/playlist/5GlSBBVqrwAPZnVRTEawjv)
-[![Twitter](https://img.shields.io/badge/Twitter-1A1A2E?style=for-the-badge&logo=x&logoColor=B3AEE8)](https://twitter.com/laucs72)
+[![GitHub](https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=CBA6F7)](https://github.com/Laucs-sudo)
+[![Spotify](https://img.shields.io/badge/Spotify-1E1E2E?style=for-the-badge&logo=spotify&logoColor=A6E3A1)](https://open.spotify.com/playlist/5GlSBBVqrwAPZnVRTEawjv)
+[![Twitter](https://img.shields.io/badge/Twitter-1E1E2E?style=for-the-badge&logo=x&logoColor=89B4FA)](https://twitter.com/laucs72)
+
+</div>
+
+<div align="center">
+
+```
+
+┌─[laucs@aulvar]─[~]
+└─$ neofetch
+
+     ▄▄▄▄▄▄▄       OS: AulvarOS (React + Node.js)
+   ▄█▓▓▓▓▓▓▓█▄     Role: Founder & Lead Web Architect
+  █▓▓cba6f7▓▓█     Stack: React · JS · Node · Lua · Python · Go
+  █▓▓▓▓▓▓▓▓▓▓█     Location: New York
+   ▀█▓▓▓▓▓▓▓█▀     Theme: Catppuccin Mocha 🌙
+     ▀▀▀▀▀▀▀       Now Playing: Ants From Up There
+
+```
 
 </div>
 
 ---
-
-### `$ whoami`
-
-Front-end developer building at **Aulvar**, working mainly in **React, JavaScript & Node.js**, based in **New York**.
 
 ### `$ cat interests.txt`
 
@@ -38,14 +52,27 @@ Front-end developer building at **Aulvar**, working mainly in **React, JavaScrip
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-1A1A2E?style=for-the-badge&logo=html5&logoColor=FF69B9)
-![CSS3](https://img.shields.io/badge/CSS3-1A1A2E?style=for-the-badge&logo=css3&logoColor=B3AEE8)
-![JavaScript](https://img.shields.io/badge/JavaScript-1A1A2E?style=for-the-badge&logo=javascript&logoColor=00FFFF)
-![React](https://img.shields.io/badge/React-1A1A2E?style=for-the-badge&logo=react&logoColor=FF69B9)
-![Node.js](https://img.shields.io/badge/Node.js-1A1A2E?style=for-the-badge&logo=node.js&logoColor=B3AEE8)
-![Lua](https://img.shields.io/badge/Lua-1A1A2E?style=for-the-badge&logo=lua&logoColor=00FFFF)
-![Python](https://img.shields.io/badge/Python-1A1A2E?style=for-the-badge&logo=python&logoColor=FF69B9)
-![Go](https://img.shields.io/badge/Go-1A1A2E?style=for-the-badge&logo=go&logoColor=B3AEE8)
+![HTML5](https://img.shields.io/badge/HTML5-1E1E2E?style=for-the-badge&logo=html5&logoColor=F38BA8)
+![CSS3](https://img.shields.io/badge/CSS3-1E1E2E?style=for-the-badge&logo=css3&logoColor=89B4FA)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1E2E?style=for-the-badge&logo=javascript&logoColor=F9E2AF)
+![React](https://img.shields.io/badge/React-1E1E2E?style=for-the-badge&logo=react&logoColor=89DCEB)
+![Node.js](https://img.shields.io/badge/Node.js-1E1E2E?style=for-the-badge&logo=node.js&logoColor=A6E3A1)
+![Lua](https://img.shields.io/badge/Lua-1E1E2E?style=for-the-badge&logo=lua&logoColor=CBA6F7)
+![Python](https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=FAB387)
+![Go](https://img.shields.io/badge/Go-1E1E2E?style=for-the-badge&logo=go&logoColor=94E2D5)
+
+</div>
+
+---
+
+### `$ fetch --stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Laucs-sudo&show_icons=true&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=F5C2E7&text_color=CDD6F4&ring_color=CBA6F7" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laucs-sudo&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7&sideLabels=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=A6ADC8" height="165"/>
+
+<img src="https://komarev.com/ghpvc/?username=Laucs-sudo&label=Profile%20Views&color=CBA6F7&style=for-the-badge" />
 
 </div>
 
@@ -53,8 +80,8 @@ Front-end developer building at **Aulvar**, working mainly in **React, JavaScrip
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/mocha_ctp_on_line.svg?sanitize=true" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00FFFF,50:B3AEE8,100:FF69B9&height=1&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f5c2e7,50:cba6f7,100:1e1e2e&height=100&section=footer" width="100%"/>
 
 </div>
