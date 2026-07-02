@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1e2e,50:cba6f7,100:f5c2e7&height=180&section=header&text=LAUCS&fontSize=70&fontColor=cdd6f4&fontAlignY=40&desc=Founder%20%26%20Lead%20Web%20Architect%20%40%20Aulvar&descAlignY=62&descSize=18" width="100%"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+%2B+JavaScript+%2B+Node.js;Building+things+at+Aulvar;Based+in+New+York" alt="Typing animation" />
 
@@ -10,25 +10,6 @@
 
 </div>
 
-<div align="center">
-
-```
-
-┌─[laucs@aulvar]─[~]
-└─$ neofetch
-
-     ▄▄▄▄▄▄▄       OS: AulvarOS (React + Node.js)
-   ▄█▓▓▓▓▓▓▓█▄     Role: Founder & Lead Web Architect
-  █▓▓cba6f7▓▓█     Stack: React · JS · Node · Lua · Python · Go
-  █▓▓▓▓▓▓▓▓▓▓█     Location: New York
-   ▀█▓▓▓▓▓▓▓█▀     Theme: Catppuccin Mocha 🌙
-     ▀▀▀▀▀▀▀       Now Playing: Ants From Up There
-
-```
-
-</div>
-
----
 
 ### `$ cat interests.txt`
 
@@ -69,10 +50,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Laucs-sudo&show_icons=true&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=F5C2E7&text_color=CDD6F4&ring_color=CBA6F7" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laucs-sudo&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7&sideLabels=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=A6ADC8" height="165"/>
 
-<img src="https://komarev.com/ghpvc/?username=Laucs-sudo&label=Profile%20Views&color=CBA6F7&style=for-the-badge" />
 
 </div>
 
@@ -80,8 +59,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/mocha_ctp_on_line.svg?sanitize=true" />
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f5c2e7,50:cba6f7,100:1e1e2e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f5c2e7,50:cba6f7,100:1e1e2e&height=5&section=footer" width="100%"/>
 
 </div>
