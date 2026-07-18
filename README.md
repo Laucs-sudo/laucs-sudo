@@ -1,64 +1,75 @@
-<div align="center">
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+%2B+JavaScript+%2B+Node.js;Building+things+at+Aulvar;Based+in+New+York" alt="Typing animation" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=CBA6F7)](https://github.com/Laucs-sudo)
-[![Spotify](https://img.shields.io/badge/Spotify-1E1E2E?style=for-the-badge&logo=spotify&logoColor=A6E3A1)](https://open.spotify.com/playlist/5GlSBBVqrwAPZnVRTEawjv)
-[![Twitter](https://img.shields.io/badge/Twitter-1E1E2E?style=for-the-badge&logo=x&logoColor=89B4FA)](https://twitter.com/laucs72)
-
-</div>
-
-
-### `$ cat interests.txt`
-
-- Sebastian Solace
-- Klonoa character design
-- MathJax
-- Vulkan
-- Rotector
-
-### `$ now.playing`
-
-- Black Country, New Road — *Ants From Up There*
-- Tyler, The Creator
-- Radiohead
-
-🎧 [Open the playlist](https://open.spotify.com/playlist/5GlSBBVqrwAPZnVRTEawjv)
-
----
-
-### `$ ls languages/`
+# Animated GitHub Profile
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-1E1E2E?style=for-the-badge&logo=html5&logoColor=F38BA8)
-![CSS3](https://img.shields.io/badge/CSS3-1E1E2E?style=for-the-badge&logo=css3&logoColor=89B4FA)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E1E2E?style=for-the-badge&logo=javascript&logoColor=F9E2AF)
-![React](https://img.shields.io/badge/React-1E1E2E?style=for-the-badge&logo=react&logoColor=89DCEB)
-![Node.js](https://img.shields.io/badge/Node.js-1E1E2E?style=for-the-badge&logo=node.js&logoColor=A6E3A1)
-![Lua](https://img.shields.io/badge/Lua-1E1E2E?style=for-the-badge&logo=lua&logoColor=CBA6F7)
-![Python](https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=FAB387)
-![Go](https://img.shields.io/badge/Go-1E1E2E?style=for-the-badge&logo=go&logoColor=94E2D5)
+<h3><code>username@github ~ $ ./contributions.sh</code></h3>
+
+![Contributions](./contrib-heatmap.svg)
+
+<br><br>
+
+<h3><code>username@github ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
 
 </div>
 
----
+## Setup
 
-### `$ fetch --stats`
+Replace `YOURUSERNAME` with your GitHub username, then:
 
-<div align="center">
+```bash
+gh repo create YOURUSERNAME --public --clone
+cd YOURUSERNAME
+mkdir -p scripts data .github/workflows
+pip install -r scripts/requirements.txt
+python scripts/prep_photo.py your-photo.jpg
+python scripts/make_ascii_svg.py
+python scripts/make_info_card.py
+python scripts/fetch_contributions.py YOURUSERNAME
+python scripts/render_heatmap_svg.py
+```
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laucs-sudo&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7&sideLabels=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=A6ADC8" height="165"/>
+Commit and push all SVG files to GitHub.
 
+## GitHub Actions Daily Refresh
 
-</div>
+Create `.github/workflows/update-heatmap.yml`:
 
----
+```yaml
+name: Update Contribution Heatmap
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
-<div align="center">
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - run: |
+          pip install requests beautifulsoup4
+          python scripts/fetch_contributions.py ${{ github.repository_owner }}
+          python scripts/render_heatmap_svg.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update contribution heatmap"
+          file_pattern: "contrib-heatmap.svg data/contributions.json"
+```
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f5c2e7,50:cba6f7,100:1e1e2e&height=5&section=footer" width="100%"/>
+## Notes
 
-</div>
+- All animations are SVG/CSS based, no JavaScript needed
+- GitHub strips `<script>` tags but renders embedded SVGs with animations
+- Use `<h3>` for section titles to avoid full-width underlines
+- Align SVG widths: `370 + 490 = 860` (heatmap width)
+- `<br><br>` provides vertical spacing (inline styles don't work on GitHub)
