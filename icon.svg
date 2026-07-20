@@ -1,0 +1,129 @@
+<svg viewBox="0 0 680 610" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', monospace">
+<style>
+:root { --bg: #1E1E2E; --bg1: #181825; --border: #313244; --text: #CDD6F4; --muted: #A6ADC8; --tag-bg: #181825; --tag-border: #313244; --accent: #CBA6F7; --pink: #F5C2E7; --red: #F38BA8; --blue: #89B4FA; --teal: #89DCEB; --green: #A6E3A1; --peach: #FAB387; --yellow: #F9E2AF; }
+</style>
+
+<rect width="680" height="610" fill="var(--bg)"/>
+
+<!-- name + tagline -->
+<text x="32" y="44" font-size="13" font-weight="500" fill="var(--accent)" letter-spacing="1.5">laucs</text>
+<text x="32" y="62" font-size="11" fill="var(--muted)" letter-spacing="0.5">front-end · react · node.js · building an OS · new york</text>
+
+<line x1="32" y1="78" x2="648" y2="78" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- now playing -->
+<text x="32" y="98" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">$ NOW.PLAYING</text>
+<text x="32" y="118" font-size="10" fill="var(--green)">🎧</text>
+<text x="48" y="118" font-size="10" fill="var(--text)">Black Country, New Road — </text><text x="233" y="118" font-size="10" fill="var(--pink)" font-style="italic">Ants From Up There</text>
+<text x="48" y="134" font-size="10" fill="var(--text)">Tyler, The Creator · Radiohead</text>
+
+<line x1="32" y1="152" x2="648" y2="152" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- interests -->
+<text x="32" y="172" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">$ CAT INTERESTS.TXT</text>
+
+<rect x="32" y="184" width="616" height="56" fill="none" stroke="var(--border)" stroke-width="0.5"/>
+<line x1="155" y1="184" x2="155" y2="240" stroke="var(--border)" stroke-width="0.5"/>
+<line x1="310" y1="184" x2="310" y2="240" stroke="var(--border)" stroke-width="0.5"/>
+<line x1="432" y1="184" x2="432" y2="240" stroke="var(--border)" stroke-width="0.5"/>
+<line x1="525" y1="184" x2="525" y2="240" stroke="var(--border)" stroke-width="0.5"/>
+
+<text x="93" y="210" font-size="10" fill="var(--text)" text-anchor="middle">Sebastian Solace</text>
+<text x="93" y="226" font-size="9" fill="var(--muted)" text-anchor="middle">character</text>
+<text x="232" y="210" font-size="10" fill="var(--text)" text-anchor="middle">Klonoa design</text>
+<text x="232" y="226" font-size="9" fill="var(--muted)" text-anchor="middle">art / games</text>
+<text x="371" y="210" font-size="10" fill="var(--text)" text-anchor="middle">MathJax</text>
+<text x="371" y="226" font-size="9" fill="var(--muted)" text-anchor="middle">rendering</text>
+<text x="478" y="210" font-size="10" fill="var(--text)" text-anchor="middle">Vulkan</text>
+<text x="478" y="226" font-size="9" fill="var(--muted)" text-anchor="middle">graphics</text>
+<text x="585" y="210" font-size="10" fill="var(--text)" text-anchor="middle">Rotector</text>
+<text x="585" y="226" font-size="9" fill="var(--muted)" text-anchor="middle">tooling</text>
+
+<line x1="32" y1="258" x2="648" y2="258" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- stack -->
+<text x="32" y="278" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">$ LS LANGUAGES/</text>
+
+<!-- row 1 -->
+<rect x="32" y="292" width="52" height="18" rx="3" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<circle cx="44" cy="301" r="3" fill="var(--red)"/>
+<text x="61" y="305" font-size="9" fill="var(--text)">html5</text>
+
+<rect x="92" y="292" width="48" height="18" rx="3" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<circle cx="104" cy="301" r="3" fill="var(--blue)"/>
+<text x="121" y="305" font-size="9" fill="var(--text)">css3</text>
+
+<rect x="148" y="292" width="72" height="18" rx="3" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<circle cx="160" cy="301" r="3" fill="var(--yellow)"/>
+<text x="177" y="305" font-size="9" fill="var(--text)">javascript</text>
+
+<rect x="228" y="292" width="50" height="18" rx="3" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<circle cx="240" cy="301" r="3" fill="var(--teal)"/>
+<text x="257" y="305" font-size="9" fill="var(--text)">react</text>
+
+<rect x="286" y="292" width="56" height="18" rx="3" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<circle cx="298" cy="301" r="3" fill="var(--green)"/>
+<text x="315" y="305" font-size="9" fill="var(--text)">node.js</text>
+
+<rect x="350" y="292" width="38" height="18" rx="3" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<circle cx="362" cy="301" r="3" fill="var(--accent)"/>
+<text x="379" y="305" font-size="9" fill="var(--text)">lua</text>
+
+<rect x="396" y="292" width="52" height="18" rx="3" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<circle cx="408" cy="301" r="3" fill="var(--peach)"/>
+<text x="425" y="305" font-size="9" fill="var(--text)">python</text>
+
+<rect x="456" y="292" width="34" height="18" rx="3" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<circle cx="468" cy="301" r="3" fill="#94E2D5"/>
+<text x="481" y="305" font-size="9" fill="var(--text)">go</text>
+
+<line x1="32" y1="326" x2="648" y2="326" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- current project -->
+<text x="32" y="346" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">$ CAT CURRENT_PROJECT.TXT</text>
+
+<rect x="32" y="360" width="616" height="72" fill="var(--tag-bg)" stroke="var(--border)" stroke-width="0.5"/>
+
+<text x="48" y="382" font-size="11" font-weight="500" fill="var(--accent)">operating system</text>
+<text x="48" y="400" font-size="10" fill="var(--muted)">building a custom OS from scratch · kernel · memory · scheduling</text>
+<text x="48" y="416" font-size="10" fill="var(--muted)">low-level systems · Vulkan rendering target · new york</text>
+
+<!-- os tags -->
+<rect x="48" y="424" width="44" height="14" rx="2" fill="var(--bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="70" y="435" font-size="8" fill="var(--muted)" text-anchor="middle">kernel</text>
+<rect x="98" y="424" width="32" height="14" rx="2" fill="var(--bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="114" y="435" font-size="8" fill="var(--muted)" text-anchor="middle">asm</text>
+<rect x="136" y="424" width="22" height="14" rx="2" fill="var(--bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="147" y="435" font-size="8" fill="var(--muted)" text-anchor="middle">c</text>
+<rect x="164" y="424" width="48" height="14" rx="2" fill="var(--bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="188" y="435" font-size="8" fill="var(--muted)" text-anchor="middle">vulkan</text>
+
+<line x1="32" y1="452" x2="648" y2="452" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- links -->
+<text x="32" y="472" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">$ LINKS</text>
+
+<rect x="32" y="486" width="68" height="20" rx="3" fill="var(--tag-bg)" stroke="var(--accent)" stroke-width="0.5"/>
+<text x="66" y="500" font-size="9" fill="var(--accent)" text-anchor="middle">github</text>
+
+<rect x="108" y="486" width="68" height="20" rx="3" fill="var(--tag-bg)" stroke="var(--green)" stroke-width="0.5"/>
+<text x="142" y="500" font-size="9" fill="var(--green)" text-anchor="middle">spotify</text>
+
+<rect x="184" y="486" width="68" height="20" rx="3" fill="var(--tag-bg)" stroke="var(--blue)" stroke-width="0.5"/>
+<text x="218" y="500" font-size="9" fill="var(--blue)" text-anchor="middle">twitter</text>
+
+<line x1="32" y1="522" x2="648" y2="522" stroke="var(--border)" stroke-width="0.5"/>
+
+<text x="340" y="558" font-size="10" fill="var(--muted)" text-anchor="middle" letter-spacing="0.3">the OS is the canvas. everything else runs on top.</text>
+
+<!-- gradient footer bar -->
+<defs>
+<linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#F5C2E7"/>
+<stop offset="50%" stop-color="#CBA6F7"/>
+<stop offset="100%" stop-color="#1E1E2E"/>
+</linearGradient>
+</defs>
+<rect x="0" y="604" width="680" height="6" fill="url(#footerGrad)"/>
+
+</svg>
