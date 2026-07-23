@@ -1,0 +1,82 @@
+<svg viewBox="0 0 680 610" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', monospace">
+<style>
+:root { --bg: #ffffff; --bg1: #f6f8fa; --border: #d0d7de; --text: #1f2328; --muted: #656d76; --tag-bg: #f6f8fa; --tag-border: #d0d7de; }
+@media (prefers-color-scheme: dark) {
+:root { --bg: #0d1117; --bg1: #161b22; --border: #30363d; --text: #e6edf3; --muted: #8b949e; --tag-bg: #161b22; --tag-border: #30363d; }
+}
+</style>
+
+<rect width="680" height="610" fill="var(--bg)"/>
+
+<!-- name + tagline -->
+<text x="32" y="44" font-size="13" font-weight="500" fill="var(--text)" letter-spacing="1.5">dhriti vaz</text>
+<text x="32" y="62" font-size="11" fill="var(--muted)" letter-spacing="0.5">Building a Opreating system </text>
+
+<line x1="32" y1="78" x2="648" y2="78" stroke="var(--border)" stroke-width="0.5"/>
+
+<text x="32" y="98" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">what am i doing right now</text>
+
+<!-- project grid -->
+<rect x="32" y="110" width="616" height="260" fill="none" stroke="var(--border)" stroke-width="0.5"/>
+<line x1="340" y1="110" x2="340" y2="370" stroke="var(--border)" stroke-width="0.5"/>
+<line x1="32" y1="240" x2="648" y2="240" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- student dashboard -->
+<text x="48" y="136" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">LUI</text>
+<rect x="48" y="196" width="58" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="77" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">react.js</text>
+<rect x="112" y="196" width="66" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="145" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">rust</text>
+<rect x="184" y="196" width="56" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="212" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">typescript</text>
+<rect x="246" y="196" width="62" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="277" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">tailwind</text>
+
+
+
+<!-- stack -->
+<text x="32" y="544" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">STACK</text>
+
+<!-- row 1 -->
+<rect x="32" y="554" width="52" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="58" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">python</text>
+<rect x="90" y="554" width="72" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="126" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">typescript</text>
+<rect x="168" y="554" width="40" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="188" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">swift</text>
+<rect x="214" y="554" width="50" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="239" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">next.js</text>
+<rect x="270" y="554" width="42" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="291" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">react</text>
+<rect x="318" y="554" width="48" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="342" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">fastapi</text>
+<rect x="372" y="554" width="40" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="392" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">flask</text>
+<rect x="418" y="554" width="52" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="444" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">node.js</text>
+<rect x="476" y="554" width="46" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="499" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">flutter</text>
+<rect x="528" y="554" width="68" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="562" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">postgresql</text>
+
+<!-- row 2 -->
+<rect x="32" y="576" width="58" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="61" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">supabase</text>
+<rect x="96" y="576" width="60" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="126" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">mongodb</text>
+<rect x="162" y="576" width="62" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="193" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">playwright</text>
+<rect x="230" y="576" width="46" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="253" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">docker</text>
+<rect x="282" y="576" width="52" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="308" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">tailwind</text>
+<rect x="340" y="576" width="52" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="366" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">solidity</text>
+<rect x="398" y="576" width="44" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="420" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">prisma</text>
+<rect x="448" y="576" width="38" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="467" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">redis</text>
+
+<line x1="32" y1="604" x2="648" y2="604" stroke="var(--border)" stroke-width="0.5"/>
+
+</svg>
